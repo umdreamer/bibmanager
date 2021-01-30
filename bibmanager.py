@@ -30,3 +30,4 @@ def extract_reference_from_bib(src_bib_filename, cite_keys, dst_bib_filename):
 	f = open(src_bib_filename)
 
 	
+# test it
